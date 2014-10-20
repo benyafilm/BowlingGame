@@ -1,3 +1,4 @@
+#Benya Vachalathiti 5631271821
 require "spec_helper"
 require "Game" 
 
